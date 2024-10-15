@@ -1,3 +1,6 @@
 docker.getcollate.io/openmetadata/db:1.4.7
 docker.getcollate.io/openmetadata/server:1.4.7
 docker.getcollate.io/openmetadata/ingestion:1.4.7
+hub.docker.com/openmetadata/db:1.5.6
+hub.docker.com/openmetadata/server:1.5.6
+hub.docker.com/openmetadata/ingestion:1.5.6
